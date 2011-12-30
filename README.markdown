@@ -7,6 +7,10 @@ A jQuery plugin to limit textarea length in browsers without html5 support
 Enforces maxlength textareas' attribute in browsers without html5 support,
 like explorer previous to IE 10.
 
+Usage:
+
+    $('textarea[maxlength]').limitMaxlength();
+
 ## Status
 
 First public release
