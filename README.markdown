@@ -18,6 +18,7 @@ First public release
 ## Requirements
 
 [jQuery](http://jquery.com) (tested with version 1.6.0+)
+
 [jquery.fieldselection](https://github.com/localhost/jquery-fieldselection).
 
 ## License
